@@ -8,4 +8,4 @@ The goal of this analysis is to explore the relationship and trend between diffe
 The dataset used for this analysis can be found on the kaggle website via https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
 
 ### Analysis Report
-> https://docs.google.com/document/d/1z4oVq1d2CQH-p1TzaqWqMnxU002oI4Gqwei2N443-Fg/edit?usp=sharing
+https://docs.google.com/document/d/1z4oVq1d2CQH-p1TzaqWqMnxU002oI4Gqwei2N443-Fg/edit?usp=sharing
