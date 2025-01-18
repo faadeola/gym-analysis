@@ -1,11 +1,9 @@
 # Introduction
-This report presents an analysis of a gym’s member exercise dataset, provided to understand metrics associated with over 900 entries, each representing one gym member's workout data over some time. Data provided includes age, gender, session duration, calories burned, workout frequency, etc.
-
-The goal of this analysis is to explore the relationship and trend between different data and provide discoveries that could help make informed decisions. Typically, this analysis explores any relations within the gym dataset.
-
+Within the gym's walls, individuals from various backgrounds converge, united by a shared goal of enhancing their well-being through strength, resilience, and other performance-enhanced training. Delving into this sphere of human activity, This report analyzes 973 gym member data to identify trends and patterns among gym members, focusing on demographics, workout preferences, and engagement patterns. The dataset provides insights into member characteristics such as age, gender, workout type, session duration, calories burned, and experience level.
 
 ### Dataset Web Address
 The dataset used for this analysis can be found on Kaggle website via https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
 
 ### Analysis Report
-https://docs.google.com/document/d/1z4oVq1d2CQH-p1TzaqWqMnxU002oI4Gqwei2N443-Fg/edit?usp=sharing
+Version 1 - https://docs.google.com/document/d/1z4oVq1d2CQH-p1TzaqWqMnxU002oI4Gqwei2N443-Fg/edit?usp=sharing
+Version 2 - https://docs.google.com/document/d/1aZNMLAan44vTh5an5bhgtzytueE5L_aE3CdmmBaWWzw/edit?usp=sharing
