@@ -5,5 +5,5 @@ Within the gym's walls, individuals from various backgrounds converge, united by
 The dataset used for this analysis can be found on Kaggle website via https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
 
 ### Analysis Report
-Version 1 - https://docs.google.com/document/d/1z4oVq1d2CQH-p1TzaqWqMnxU002oI4Gqwei2N443-Fg/edit?usp=sharing
+Version 1 - https://docs.google.com/document/d/1z4oVq1d2CQH-p1TzaqWqMnxU002oI4Gqwei2N443-Fg/edit?usp=sharing <br>
 Version 2 - https://docs.google.com/document/d/1aZNMLAan44vTh5an5bhgtzytueE5L_aE3CdmmBaWWzw/edit?usp=sharing
